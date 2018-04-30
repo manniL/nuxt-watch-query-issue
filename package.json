@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-watch-query-issue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "Alexander Lichter <npm@lichter.io>",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25414361.b4a4a55"
+  }
+}
